@@ -3,7 +3,7 @@ package com.vivekt.concur;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class CallableDemo {
+public class RunableDemo {
 
     public static void main(String[] args) {
         int numberOfTasks = 50000;

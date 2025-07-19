@@ -1,6 +1,6 @@
 package com.vivekt.concur;
 
-public class CallableDemoBad {
+public class RunableDemoBadImpl {
 
     public static void main(String[] args) {
 
